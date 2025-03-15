@@ -1,2 +1,2 @@
 # 3-1-project_reformed
-3-1 web project about an online job portal using ASP.Net and C# using MSSQL
+this a a project about an online job portal using ASP.net framework with C# language with MSSQL Database support.
